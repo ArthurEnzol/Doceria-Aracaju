@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "1",
+    "nome": "Cocada Caramelada",
+    "descricao": "Cocada de leite condensado com caramelo artesanal e flocos de coco fresco. Derrete na boca.",
+    "preco": 8,
+    "categoria": "Cocadas",
+    "imagem": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+    "badge": "Mais Vendido",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "2",
+    "nome": "Casadinho de Goiaba",
+    "descricao": "Clássico casadinho de queijo coalho com goiaba cremosa. Doçura e contraste perfeitos.",
+    "preco": 6.5,
+    "categoria": "Tradicionais",
+    "imagem": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=300&fit=crop",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "3",
+    "nome": "Maria Mole de Coco",
+    "descricao": "Maria mole artesanal coberta com coco queimado. Receita de família há 50 anos.",
+    "preco": 7,
+    "categoria": "Tradicionais",
+    "imagem": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&h=300&fit=crop",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "4",
+    "nome": "Pé de Moleque Premium",
+    "descricao": "Pé de moleque com amendoim torrado, açúcar mascavo e toque de canela. Crocante!",
+    "preco": 5.5,
+    "categoria": "Tradicionais",
+    "imagem": "https://imgs.search.brave.com/hIFxVhBXqSAZn0RhN0WxeIxGW03HHw8h_B8REG-4Iwc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9wZS1kZS1tb2xl/cXVlLWRvY2UtdGlw/aWNvLWJyYXNpbGVp/cm8tY29uc3VtaWRv/LWR1cmFudGUtYS10/ZW1wb3JhZGEtZGUt/ZmVzdGFzLWRlLWp1/bmhvLWZlaXRvLWNv/bS1hbWVuZG9pbV8x/MDQ4OTQ0LTEwNTcx/ODM4LmpwZz9zZW10/PWFpc19oeWJyaWQ",
+    "badge": "Novidade",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "5",
+    "nome": "Cartola Especial",
+    "descricao": "Banana caramelizada com queijo coalho gratinado e canela. Receita pernambucana adaptada.",
+    "preco": 15,
+    "categoria": "Especiais",
+    "imagem": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "6",
+    "nome": "Tapioca Doce",
+    "descricao": "Tapioca recheada com coco, leite condensado e queijo coalho. Um clássico nordestino.",
+    "preco": 12,
+    "categoria": "Especiais",
+    "imagem": "https://img.freepik.com/fotos-premium/sobremesa-do-nordeste-brasileiro-tapioca-doce_519721-806.jpg",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "7",
+    "nome": "Bolo Souza Leão",
+    "descricao": "O autêntico bolo de mandioca com coco. Massa úmida e sabor inconfundível de Sergipe.",
+    "preco": 18,
+    "categoria": "Bolos",
+    "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop",
+    "badge": "Ícone de Aracaju",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "8",
+    "nome": "Beijinho Gourmet",
+    "descricao": "Beijinho de coco com leite condensado artesanal e cravo-da-índia. Cobertura aveludada.",
+    "preco": 4.5,
+    "categoria": "Brigadeiros",
+    "imagem": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=400&h=300&fit=crop",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "9",
+    "nome": "Brigadeiro de Caju",
+    "descricao": "Brigadeiro cremoso com caju triturado. O sabor do Nordeste em cada mordida.",
+    "preco": 5,
+    "categoria": "Brigadeiros",
+    "imagem": "https://receitadaboa.com.br/wp-content/uploads/2024/06/iStock-1340233450.jpg",
+    "badge": "Regional",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "10",
+    "nome": "Queijadinha da Vovó",
+    "descricao": "Queijadinha cremosa com coco ralado e queijo coalho desfiado. Tradição que emociona.",
+    "preco": 6,
+    "categoria": "Tradicionais",
+    "imagem": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=400&h=300&fit=crop",
+    "badge": "",
+    "ativo": true,
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  }
+]

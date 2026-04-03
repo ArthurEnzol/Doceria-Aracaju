@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "cat1",
+    "nome": "Cocadas",
+    "icone": "🥥",
+    "cor": "#FF1493",
+    "ordem": 1,
+    "ativo": true
+  },
+  {
+    "_id": "cat2",
+    "nome": "Tradicionais",
+    "icone": "🏠",
+    "cor": "#D4AF37",
+    "ordem": 2,
+    "ativo": true
+  },
+  {
+    "_id": "cat3",
+    "nome": "Especiais",
+    "icone": "✨",
+    "cor": "#9C27B0",
+    "ordem": 3,
+    "ativo": true
+  },
+  {
+    "_id": "cat4",
+    "nome": "Bolos",
+    "icone": "🎂",
+    "cor": "#4CAF50",
+    "ordem": 4,
+    "ativo": true
+  },
+  {
+    "_id": "cat5",
+    "nome": "Brigadeiros",
+    "icone": "🍫",
+    "cor": "#8D6E63",
+    "ordem": 5,
+    "ativo": true
+  }
+]

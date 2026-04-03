@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "ped1",
+    "cliente": "Maria Silva",
+    "telefone": "79999123456",
+    "dataEntrega": "2024-01-15",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Cocada Caramelada",
+        "preco": 8,
+        "quantidade": 5,
+        "imagem": "🥥"
+      }
+    ],
+    "totalPix": 40,
+    "totalCartao": 42,
+    "formaPagamento": "pix",
+    "status": "pendente",
+    "observacoes": "",
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "ped2",
+    "cliente": "João Santos",
+    "telefone": "79999876543",
+    "dataEntrega": "2024-01-12",
+    "itens": [
+      {
+        "id": 3,
+        "nome": "Bolo Souza Leão",
+        "preco": 18,
+        "quantidade": 1,
+        "imagem": "🍰"
+      }
+    ],
+    "totalPix": 18,
+    "totalCartao": 18.9,
+    "formaPagamento": "cartao",
+    "status": "preparando",
+    "observacoes": "",
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "ped3",
+    "cliente": "Ana Paula",
+    "telefone": "79999765432",
+    "dataEntrega": "2024-01-10",
+    "itens": [
+      {
+        "id": 4,
+        "nome": "Brigadeiro de Caju",
+        "preco": 5,
+        "quantidade": 20,
+        "imagem": "🍫"
+      }
+    ],
+    "totalPix": 100,
+    "totalCartao": 105,
+    "formaPagamento": "pix",
+    "status": "entregue",
+    "observacoes": "Entregar pela manhã",
+    "createdAt": "2026-04-03T04:43:04.532Z"
+  }
+]
