@@ -61,5 +61,25 @@
     "status": "entregue",
     "observacoes": "Entregar pela manhã",
     "createdAt": "2026-04-03T04:43:04.532Z"
+  },
+  {
+    "_id": "ped1778208138858h7c18f940",
+    "cliente": "",
+    "telefone": "79999999999",
+    "dataEntrega": "2024-01-01",
+    "itens": [
+      {
+        "id": "1",
+        "nome": "Doce",
+        "preco": 10,
+        "quantidade": 1
+      }
+    ],
+    "totalPix": 10,
+    "totalCartao": 0,
+    "formaPagamento": "pix",
+    "observacoes": "",
+    "status": "pendente",
+    "createdAt": "2026-05-08T02:42:18.858Z"
   }
 ]
